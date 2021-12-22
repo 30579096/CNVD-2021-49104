@@ -3,7 +3,7 @@
 
 ## 工具利用
 
-python3 CNVD-2021-49104.py -u http://127.0.0.1:1111 单个url测试
+python3 CNVD-2021-49104.py -u http://127.0.0.1:8082 单个url测试
 
 
 python3 CNVD-2021-49104.py -f url.txt 批量检测
