@@ -11,6 +11,11 @@ python3 CNVD-2021-49104.py -f url.txt 批量检测
 
 ![exp](./exp.png)
 
+只输出webshell地址到txt请执行
+python CNVD-2021-49104.py -f e-office.txt|findstr webshell >>shell.txt
+即可在当前路径下生成shell.txt
+
+![exp](./2.png)
 
 
 ## 免责声明
